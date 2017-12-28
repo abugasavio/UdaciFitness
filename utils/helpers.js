@@ -13,11 +13,11 @@ const styles = StyleSheet.create({
   iconContainer: {
     padding: 5,
     borderRadius: 2,
-    width: 30,
-    height: 30,
+    width: 40,
+    height: 40,
     justifyContent: 'center',
     alignItems: 'center',
-    marginRight: 20
+    marginRight: 10
   },
 })
 
